@@ -18,4 +18,8 @@ npm run build
 npm start
 ```
 
-*Visit* **localhost:5000/** *to check if the server is running or not.
+*Visit below link to check if the server is running or not.*
+
+```
+http://localhost:5000/
+```
